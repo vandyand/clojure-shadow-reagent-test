@@ -1,3 +1,7 @@
 node_modules/
 .lsp/
 .clj-kondo/
+.calva/
+.shadow-cljs/
+.cpcache/
+.docs/cljs-runtime
