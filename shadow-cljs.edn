@@ -1,0 +1,12 @@
+{:source-paths
+ ["src"]
+
+ :dependencies
+ []
+
+ :builds
+ {:app
+  {:target :browser
+   :output-dir "build"
+   :asset-path "./"
+   :modules {:main {:init-fn tbd.core/main}}}}}
