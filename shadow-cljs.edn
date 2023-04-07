@@ -7,6 +7,6 @@
  :builds
  {:app
   {:target :browser
-   :output-dir "build"
+   :output-dir "docs"
    :asset-path "./"
    :modules {:main {:init-fn tbd.core/main}}}}}
